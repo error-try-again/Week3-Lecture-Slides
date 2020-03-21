@@ -22,7 +22,6 @@ public class Manager extends Employee {
     * @param day the hire day
     */
     
-    
    public Manager(String name, double salary, int year,
 			 int month, int day)
    {
